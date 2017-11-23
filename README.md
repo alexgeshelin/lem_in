@@ -1,6 +1,6 @@
 # lem_in
 
-One of School 42 learning projects. Goal is to find the most efficent way to guide n ants throughthe "ant farm", which is represented by graph.
+One of School 42 learning projects. Goal is to find the most efficent way to guide n ants through the "ant farm", which is represented by graph.
 
 Program receives from standart output represantation of a farm in a following format:
 
